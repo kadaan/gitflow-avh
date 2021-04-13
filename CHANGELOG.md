@@ -40,6 +40,9 @@
 
 # Changelog
 
+#### 1.12.3
+* Explicitly get the default values from the system and global config.
+
 #### 1.12.2
 * Missing parentheses (Thanks [Tiscs Sun][Tiscs] )
 
